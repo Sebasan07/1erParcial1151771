@@ -42,6 +42,69 @@ body {
     font-size: 35px;
 }
 
+.contenedor-1 {
+    width: 100%;
+    padding: 25px 0;
+    margin: 0;
+}
+
+.que-es-covid {
+    float: left;
+    width: 50%;
+}
+
+.imagen-que-es {
+    float: right;
+    width: 50%;
+}
+
+.imagen-que-es img {
+    width: 100%;
+    height: 100%;
+}
+
+.contenedor-2 {
+    width: 100%;
+    padding: 25px 0;
+    margin: 0;
+}
+
+.sintomas-img {
+    float: left;
+    width: 50%;
+}
+
+.sintomas-img img {
+    width: 100%;
+    height: 100%;
+}
+
+.sintomas {
+    float: right;
+    width: 50%;
+}
+
+.contenedor-3 {
+    width: 100%;
+    padding: 25px 0;
+    margin: 0;
+}
+
+.cuidarse-img {
+    float: left;
+    width: 50%;
+}
+
+.cuidarse-img {
+    width: 100%;
+    height: 100%;
+}
+
+.cuidarse {
+    float: right;
+    width: 50%;
+}
+
 .navbar-toggle {
     float: left;
     margin-left: 8px;
